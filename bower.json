@@ -1,5 +1,5 @@
 {
   "name": "famfamfam-flags-sprite",
-  "main": "src/flags-sprite.min.css",
+  "main": ["src/flags-sprite.min.css", "src/flags-sprite.png"],
   "ignore": [ "demo" ]
 }
